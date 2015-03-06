@@ -1,7 +1,5 @@
 {
-    "appKeys": {
-    	"KEY_COMMAND": 0
-    },
+    "appKeys": {},
     "capabilities": [
         ""
     ],

@@ -74,13 +74,9 @@ var menuEvent = function(event) {
       detailCard.show();    
     }
   } else {
-    // Construct a dictionary
-    var dict = {
-      '0':42
-    };
-  
+      
     // Send a string to Pebble
-    Pebble.sendAppMessage(dict,
+    Pebble.sendAppMessage({'KEY_COMMAND': 'command'},
       function(e) {
         console.log('Send successful.');
       },
