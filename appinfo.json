@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "Pebble",
-    "longName": "Pebble.js Tutorial 1-2",
+    "longName": "Home Control",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -31,7 +31,7 @@
             }
         ]
     },
-    "shortName": "P.js Tut 1-2",
+    "shortName": "Home Control",
     "uuid": "56a7ce7a-f051-4fb5-a9be-f6cc6f1a5401",
     "versionCode": 1,
     "versionLabel": "1.0",
